@@ -1,0 +1,6 @@
+  <launch>
+    <!-- Test Node-->
+      <node pkg="ins_write_file" type="ins_write_file"
+          name="ins_write_file" output="screen" />
+  
+  </launch>
